@@ -1,0 +1,488 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Idp_slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Jan 13 2016 09:35:17 GMT+0600 (Центральная Азия "
+"(зима))\n"
+"POT-Revision-Date: Thu Jan 14 2016 04:44:53 GMT+0600 (Центральная Азия "
+"(зима))\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: admin <admin@plugin.wpsnippets.loc>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Idp slider"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://garmoniagroup.ru"
+msgstr ""
+
+#. Description of the plugin
+msgid "Its Start"
+msgstr ""
+
+#. Author of the plugin
+msgid "Konstantin Milyushenko"
+msgstr ""
+
+#: ../idp-slider.php:46 ../idp-slider.php:46
+msgid "IDP Slider"
+msgstr ""
+
+#: ../idp-slider.php:54
+msgid "IDP Slider Discription"
+msgstr ""
+
+#: ../idp-slider.php:58
+msgid ""
+"<h3>Indicator connection plug-in scripts</h3> (if you have a problem when "
+"displaying sliders - check the plugin settings on the IDP page Slider "
+"options)"
+msgstr ""
+
+#: ../idp-slider.php:65
+msgid "The Google JQUERY script"
+msgstr ""
+
+#: ../idp-slider.php:66
+msgid "Scripts and styles from Twitter Bootstrap"
+msgstr ""
+
+#: ../idp-slider.php:73
+msgid "Use the script attached in the plugin"
+msgstr ""
+
+#: ../idp-slider.php:75
+msgid "Use the script attached in the theme or script is missing."
+msgstr ""
+
+#: ../idp-slider.php:79
+msgid "Use the scripts and styles attached in the plugin"
+msgstr ""
+
+#: ../idp-slider.php:81
+msgid "Use the scripts and styles attached in the theme or script is missing."
+msgstr ""
+
+#: ../idp-slider.php:90 ../idp-slider.php:94 ../idp-slider.php:99 ../idp-slider.
+#: php:103
+msgid "It looks like the slider when using shortcode"
+msgstr ""
+
+#: ../other_functions.php:20
+msgid "ID"
+msgstr ""
+
+#: ../slider-set.php:8
+msgctxt "Post Type General Name"
+msgid "Sliders"
+msgstr ""
+
+#: ../slider-set.php:9
+msgctxt "Post Type Singular Name"
+msgid "Slider"
+msgstr ""
+
+#: ../slider-set.php:10 ../slider-set.php:11 ../slider-set.php:41 ..
+#: /fields/fields-slider.php:20
+msgid "Slider"
+msgstr ""
+
+#: ../slider-set.php:12
+msgid "Slider Archives"
+msgstr ""
+
+#: ../slider-set.php:13
+msgid "Sliders:"
+msgstr ""
+
+#: ../slider-set.php:14
+msgid "All sliders"
+msgstr ""
+
+#: ../slider-set.php:15
+msgid "Add New slider"
+msgstr ""
+
+#: ../slider-set.php:16
+msgid "Add New"
+msgstr ""
+
+#: ../slider-set.php:17
+msgid "New slider"
+msgstr ""
+
+#: ../slider-set.php:18
+msgid "Edit slider"
+msgstr ""
+
+#: ../slider-set.php:19
+msgid "Update slider"
+msgstr ""
+
+#: ../slider-set.php:20
+msgid "View slider"
+msgstr ""
+
+#: ../slider-set.php:21
+msgid "Search slider"
+msgstr ""
+
+#: ../slider-set.php:22
+msgid "Not found"
+msgstr ""
+
+#: ../slider-set.php:23
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../slider-set.php:24
+msgid "Featured Image"
+msgstr ""
+
+#: ../slider-set.php:25
+msgid "Set featured image"
+msgstr ""
+
+#: ../slider-set.php:26
+msgid "Remove featured image"
+msgstr ""
+
+#: ../slider-set.php:27
+msgid "Use as featured image"
+msgstr ""
+
+#: ../slider-set.php:28
+msgid "Insert slider"
+msgstr ""
+
+#: ../slider-set.php:29
+msgid "Uploaded to this slider"
+msgstr ""
+
+#: ../slider-set.php:30
+msgid "Sliders list"
+msgstr ""
+
+#: ../slider-set.php:31
+msgid "Items list navigation"
+msgstr ""
+
+#: ../slider-set.php:32
+msgid "Filter items list"
+msgstr ""
+
+#: ../slider-set.php:42
+msgid "Beautiful sliders on Bootstrap"
+msgstr ""
+
+#: ../fields/fields-slider.php:31
+msgid "Slide №{#}"
+msgstr ""
+
+#: ../fields/fields-slider.php:32
+msgid "Add slide"
+msgstr ""
+
+#: ../fields/fields-slider.php:33
+msgid "Delite slide"
+msgstr ""
+
+#: ../fields/fields-slider.php:46
+msgid "Slide title"
+msgstr ""
+
+#: ../fields/fields-slider.php:52
+msgid "Slide description"
+msgstr ""
+
+#: ../fields/fields-slider.php:53
+msgid ""
+"Write the text that will appear on the dark part of the slider or the right "
+"of the picture (if you are using a slider with an external description)."
+msgstr ""
+
+#: ../fields/fields-slider.php:59
+msgid "Slide image"
+msgstr ""
+
+#: ../fields/fields-slider.php:65
+msgid "\"alt\" image"
+msgstr ""
+
+#: ../fields/fields-slider.php:110 ../fields/fields-slider.php:150 ..
+#: /fields/fields-slider.php:150
+msgid "IDP Slider setting"
+msgstr ""
+
+#: ../fields/fields-slider.php:191
+msgid "Do action Google jquery?"
+msgstr ""
+
+#: ../fields/fields-slider.php:195
+msgid "If your theme uses jquery scripts from Google - disable this option"
+msgstr ""
+
+#: ../fields/fields-slider.php:199
+msgid "Do action bootstrap.css & bootstrap.js of plugin"
+msgstr ""
+
+#: ../fields/fields-slider.php:203
+msgid ""
+"If your theme uses the styles and scripts from twitter bootstrap - disable "
+"this option"
+msgstr ""
+
+#: ../fields/fields-slider.php:220
+msgid "Settings updated."
+msgstr ""
+
+#. Name of the plugin
+msgid "CMB2"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/WebDevStudios/CMB2"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"CMB2 will create metaboxes and forms with custom fields that will blow your "
+"mind."
+msgstr ""
+
+#. Author of the plugin
+msgid "WebDevStudios"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://webdevstudios.com"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_Ajax.php:135 ../fields/cmb2/tests/test-cmb-types.
+#: php:811
+msgid "Remove Embed"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_Ajax.php:139 ../fields/cmb2/tests/test-cmb-types.
+#: php:812
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_Field.php:978 ../fields/cmb2/includes/CMB2_Field.
+#: php:982 ../fields/cmb2/tests/test-cmb-field.php:216
+msgid "None"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:86 ../fields/cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:118 ../fields/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson."
+"com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:137 ../fields/cmb2/includes/CMB2_Types.php:
+#: 1004
+msgid "Remove Image"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:138 ../fields/cmb2/includes/CMB2_Types.php:
+#: 357 ../fields/cmb2/includes/CMB2_Types.php:1023 ../fields/cmb2/tests/test-cmb-
+#: types.php:155 ../fields/cmb2/tests/test-cmb-types.php:163 ..
+#: /fields/cmb2/tests/test-cmb-types.php:760 ../fields/cmb2/tests/test-cmb-types.
+#: php:785
+msgid "Remove"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:139 ../fields/cmb2/includes/CMB2_Types.php:
+#: 1018 ../fields/cmb2/tests/test-cmb-types.php:761 ../fields/cmb2/tests/test-cmb-
+#: types.php:786
+msgid "File:"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:140 ../fields/cmb2/includes/CMB2_Types.php:
+#: 1021 ../fields/cmb2/tests/test-cmb-types.php:759 ../fields/cmb2/tests/test-cmb-
+#: types.php:784
+msgid "Download"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_Types.php:749 ../fields/cmb2/includes/CMB2_Types.
+#: php:797
+msgid "No terms"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_Types.php:864 ../fields/cmb2/tests/test-cmb-types.
+#: php:736 ../fields/cmb2/tests/test-cmb-types.php:762
+msgid "Add or Upload Files"
+msgstr ""
+
+#: ../fields/cmb2/includes/CMB2_Types.php:926 ../fields/cmb2/tests/test-cmb-types.
+#: php:772 ../fields/cmb2/tests/test-cmb-types.php:787
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../fields/cmb2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: ../fields/cmb2/tests/test-cmb-field.php:244
+msgid "Test Metabox"
+msgstr ""
+
+#: ../fields/cmb2/tests/test-cmb-field.php:255
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: ../fields/cmb2/tests/test-cmb-field.php:256
+msgid "field description (optional)"
+msgstr ""
+
+#: ../fields/cmb2/tests/test-cmb-field.php:261
+msgid "Check One"
+msgstr ""
+
+#: ../fields/cmb2/tests/test-cmb-field.php:262
+msgid "Check Two"
+msgstr ""
+
+#: ../fields/cmb2/tests/test-cmb-field.php:263
+msgid "Check Three"
+msgstr ""
